@@ -1,4 +1,4 @@
-[![ZamanYar Preview](https://amir8218.ir/GitHub/README/Cover.png)](https://github.com/Amir-Hosein-Amiri)
+[![ZamanYar Preview](https://amir8218.ir/GitHub/README/Cover.png)](https://github.com/TheLeaderDev)
 
 <article class="markdown-body entry-content container-lg f5" itemprop="text">
     <p dir="auto">
