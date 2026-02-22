@@ -36,7 +36,7 @@
         <!-- <a href="https://wa.me/+98" rel="nofollow">
             <img src="https://img.shields.io/badge/WhatsApp-url?style=for-the-badge&logo=WhatsApp&logoColor=%2325D366&color=%23082032" alt="WhatsApp" style="max-width: 100%;">
         </a> -->
-        <a href="https://www.instagram.com/amir._.ea_" rel="nofollow">
+        <a href="https://www.instagram.com/theleaderdev" rel="nofollow">
             <img src="https://img.shields.io/badge/instagram-%23082032?style=for-the-badge&logo=instagram&logoColor=%23FD0AB6&color=%23082032" alt="Instagram" style="max-width: 100%;">
         </a>
         <a href="https://t.me/Ami_ea" rel="nofollow">
