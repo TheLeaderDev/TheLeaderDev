@@ -10,12 +10,12 @@
         </a>
 </p>
 
-<h5>🌟 My Projects Are Here!</h5>
-<h5>Here you can check out my published projects and hands-on work 🚀</h5>
-<h5>To see more examples and explore project details, be sure to visit my website:</h5> <a target="_blank" href="https://leaderdev.info/">🌐 LeaderDev.info</a>
-<h5>I’m always learning and exploring new technologies, and I share what I learn through practical and exciting projects.</h5>
-<h5>Most of my projects are open-source and free, so you can easily use them and even get inspired!</h5>
-<h5>If you’re interested in collaborating or have any questions about my projects, you can reach out to me directly through any of the contact methods below 💬</h5>
+🌟 My Projects Are Here! <br>
+Here you can check out my published projects and hands-on work 🚀 <br>
+To see more examples and explore project details, be sure to visit my website: <a target="_blank" href="https://leaderdev.info/">🌐 LeaderDev.info</a> <br>
+I’m always learning and exploring new technologies, and I share what I learn through practical and exciting projects. <br>
+Most of my projects are open-source and free, so you can easily use them and even get inspired! <br>
+If you’re interested in collaborating or have any questions about my projects, you can reach out to me directly through any of the contact methods below 💬 <br>
 
 
 <div class="markdown-heading" dir="auto">
