@@ -36,24 +36,24 @@
         <!-- <a href="https://wa.me/+98" rel="nofollow">
             <img src="https://img.shields.io/badge/WhatsApp-url?style=for-the-badge&logo=WhatsApp&logoColor=%2325D366&color=%23082032" alt="WhatsApp" style="max-width: 100%;">
         </a> -->
-        <a href="https://www.instagram.com/theleaderdev" rel="nofollow">
+        <a href="https://www.instagram.com/TheLeaderDev" rel="nofollow">
             <img src="https://img.shields.io/badge/instagram-%23082032?style=for-the-badge&logo=instagram&logoColor=%23FD0AB6&color=%23082032" alt="Instagram" style="max-width: 100%;">
         </a>
-        <a href="https://t.me/leaderdev" rel="nofollow">
+        <a href="https://t.me/TheLeaderDev" rel="nofollow">
             <img src="https://img.shields.io/badge/telegram-url?style=for-the-badge&logo=telegram&logoColor=%232CA5E0&color=%23082032" alt="telegram" style="max-width: 100%;">
         </a>
-        <a href="https://www.linkedin.com/in/theleaderdev" rel="nofollow">
+        <a href="https://www.linkedin.com/in/TheLeaderDev" rel="nofollow">
             <img src="https://amir8218.ir/GitHub/Logo/Profiles/LINKEDIN%20.svg" alt="LinkedIn" style="max-width: 100%;">
         </a>
     </p>
 
 <div class="markdown-heading" dir="auto">
         <h1 class="heading-element" dir="auto">
-            <a href="https://github.com/theleaderdev">
+            <a href="https://github.com/TheLeaderDev">
                 <img src="https://amir8218.ir/GitHub/SVG/Tech-Stack.svg" alt="Tech Stack :">
             </a>
         </h1>
-        <a id="user-content--tech-stack" class="anchor" aria-label="Permalink: 💻 Tech Stack:" href="https://github.com/theleaderdev">
+        <a id="user-content--tech-stack" class="anchor" aria-label="Permalink: 💻 Tech Stack:" href="https://github.com/TheLeaderDev">
             <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true">
                 <path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 
                          .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 
@@ -105,7 +105,7 @@
                 <img src="https://amir8218.ir/GitHub/SVG/Work.svg" alt="Professional Profiles :">
             </a>
         </h2>
-        <a id="user-content--socials" class="anchor" aria-label="Permalink: 🌐 Professional Profiles:" href="https://github.com/theleaderdev">
+        <a id="user-content--socials" class="anchor" aria-label="Permalink: 🌐 Professional Profiles:" href="https://github.com/TheLeaderDev">
             <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true">
                 <path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 
                          .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 
@@ -124,7 +124,7 @@
 <a href="https://www.karlancer.com/profile/631744" rel="nofollow">
     <img src="https://amir8218.ir/GitHub/Logo/Profiles/KARLANCER.svg" alt="Karlanser" style="max-width: 100%; height: auto;">
 </a>
-<a href="https://github.com/theleaderdev" rel="nofollow">
+<a href="https://github.com/TheLeaderDev" rel="nofollow">
     <img src="https://amir8218.ir/GitHub/Logo/Profiles/PONISHA.svg" alt="Ponisha" style="max-width: 100%; height: auto;">
 </a> -->
 
