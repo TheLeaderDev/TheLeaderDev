@@ -4,7 +4,7 @@
 
 <p dir="auto">
         <a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/theleaderdev">
-            <img src="https://amir8218.ir/GitHub/SVG/Title-Text.svg" 
+            <img target="_blank" src="https://amir8218.ir/GitHub/SVG/Title-Text.svg" 
                  alt="Hi there! I'm Amir,I love web development" 
                  style="max-width: 100%;">
         </a>
@@ -13,7 +13,7 @@
 <div class="markdown-heading" dir="auto">
         <h2 class="heading-element" dir="auto">
             <a href="https://github.com/Amir-Hosein-Amiri">
-                <img src="https://amir8218.ir/GitHub/SVG/Follow-Me.svg" alt="Follow Me :">
+                <img target="_blank" src="https://amir8218.ir/GitHub/SVG/Follow-Me.svg" alt="Follow Me :">
             </a>
         </h2>
         <a id="user-content--socials" class="anchor" aria-label="Permalink: 🌐 Socials:" href="https://github.com/Amir-Hosein-Amiri">
