@@ -33,9 +33,9 @@
     </div>
 
 <p dir="auto">
-        <a href="https://wa.me/+989201342023" rel="nofollow">
+        <!-- <a href="https://wa.me/+98" rel="nofollow">
             <img src="https://img.shields.io/badge/WhatsApp-url?style=for-the-badge&logo=WhatsApp&logoColor=%2325D366&color=%23082032" alt="WhatsApp" style="max-width: 100%;">
-        </a>
+        </a> -->
         <a href="https://www.instagram.com/amir._.ea_" rel="nofollow">
             <img src="https://img.shields.io/badge/instagram-%23082032?style=for-the-badge&logo=instagram&logoColor=%23FD0AB6&color=%23082032" alt="Instagram" style="max-width: 100%;">
         </a>
@@ -99,7 +99,7 @@
         </a>
     </p>
 
-<div class="markdown-heading" dir="auto">
+<!-- <div class="markdown-heading" dir="auto">
         <h2 class="heading-element" dir="auto">
             <a href="https://github.com/Amir-Hosein-Amiri">
                 <img src="https://amir8218.ir/GitHub/SVG/Work.svg" alt="Professional Profiles :">
@@ -126,6 +126,6 @@
 </a>
 <a href="https://github.com/Amir-Hosein-Amiri" rel="nofollow">
     <img src="https://amir8218.ir/GitHub/Logo/Profiles/PONISHA.svg" alt="Ponisha" style="max-width: 100%; height: auto;">
-</a>
+</a> -->
 
 </article>
