@@ -10,6 +10,13 @@
         </a>
 </p>
 
+🌟 My Projects Are Here! <br>
+Here you can check out my published projects and hands-on work 🚀 <br>
+To see more examples and explore project details, be sure to visit my website:<a href="https://leaderdev.info/">🌐 LeaderDev.info</a> <br>
+I’m always learning and exploring new technologies, and I share what I learn through practical and exciting projects. <br>
+Most of my projects are open-source and free, so you can easily use them and even get inspired! <br>
+If you’re interested in collaborating or have any questions about my projects, you can reach out to me directly through any of the contact methods below 💬
+
 <div class="markdown-heading" dir="auto">
         <h2 class="heading-element" dir="auto">
             <a href="https://github.com/Amir-Hosein-Amiri">
